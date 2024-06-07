@@ -1,0 +1,13 @@
+/* JasonEmbedded Project */
+
+MAS newCoalition {
+
+    infrastructure: Centralised
+
+    agents:
+        telephonist agentArchClass Communicator;
+
+    aslSourcePath:
+		"agents";
+
+}
